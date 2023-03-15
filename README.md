@@ -1,5 +1,5 @@
 # TasteOfJongro_Toy_Project
-Toy Project
+
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/124125503/225242951-02ee6213-f43d-463e-99fb-117804654a51.png">
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/124125503/225243106-6b9a9039-ebf9-4de6-8e3e-b9d4e4d17542.png">
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/124125503/225243179-8816cb9e-0413-4d96-9cae-46349d301a66.png">
