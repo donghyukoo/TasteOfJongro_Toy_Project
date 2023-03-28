@@ -1,0 +1,322 @@
+[
+    {
+       "id":1,
+       "restaurantName": "캄다소바 경복궁점",
+       "menuName":"아부라소바",
+       "menuPrice":11000,
+       "categoryName":"일식",
+       "review":4.5,
+       "season":"봄",
+       "menuType":"면",
+       "restaurantImages":"/restaurantImages/1.PNG",
+       "isOrderable":true,
+       "detail": {
+           "description": "사골을 직접 고아 만든 아부라(기름)과 사용하여 야채고명들과 함께 묵직하면서 중미가 깆은 맛을 내는 '다이어트 라멘'입니다.",
+           "image": "/images/1.PNG"
+       }
+    },
+    {
+        "id":2,
+        "restaurantName": "토속촌 ",
+        "menuName":"토속촌 삼계탕",
+        "menuPrice":19000,
+        "categoryName":"한식",
+        "review":4.33,
+        "season":"여름",
+        "menuType":"탕",
+        "restaurantImages":"/restaurantImages/2.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "개업이래(38년)  지금까지 국내산 재료만 사용해서 만드는 한국전통보양식 삼계탕집입니다.",
+            "image": "/images/2.PNG"
+        }
+     },
+     {
+        "id":3,
+        "restaurantName": "티엔미미 서촌점 ",
+        "menuName":"토마토탕면",
+        "menuPrice":11000,
+        "categoryName":"중식",
+        "review":4.42,
+        "season":"가을",
+        "menuType":"면",
+        "restaurantImages":"/restaurantImages/3.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "돼지고기와 토마토를 볶아만든 탕면",
+            "image": "/images/3.PNG"
+        }
+     },
+     {
+        "id":4,
+        "restaurantName": "라 스위스 ",
+        "menuName":"크노플리치즈파스타",
+        "menuPrice":19000,
+        "categoryName":"양식",
+        "review":4.54,
+        "season":"봄",
+        "menuType":"면",
+        "restaurantImages":"/restaurantImages/4.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "그뤼에르치즈, 에멘탈 치즈가 들어간 스위스 크노플리 파스타",
+            "image": "/images/4.PNG"
+        }
+     },
+     {
+        "id":5,
+        "restaurantName": "미라보쇼콜라",
+        "menuName":"진한 밀크아이스크림",
+        "menuPrice":5000,
+        "categoryName":"디저트",
+        "review":4.61,
+        "season":"여름",
+        "menuType":"아이스크림",
+        "restaurantImages":"/restaurantImages/5.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "다크초콜릿과 카라멜초콜릿 토핑을 넣어 즐기는 진한 밀크 아이스크림",
+            "image": "/images/5.PNG"
+        }
+     },
+     {
+        "id":6,
+        "restaurantName": "황생가칼국수 ",
+        "menuName":"콩국수",
+        "menuPrice":13000,
+        "categoryName":"한식",
+        "review":4.32,
+        "season":"여름",
+        "menuType":"국수",
+        "restaurantImages":"/restaurantImages/6.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "신선한 콩과 영양식 건과류(참깨, 땅콩, 잣 등)를 함께 같아 만든 고소한 국물로 만든 여름인기메뉴",
+            "image": "/images/6.PNG"
+        }
+     },
+     {
+        "id":7,
+        "restaurantName": "이스트빌리지서울",
+        "menuName":"옛날돈가스",
+        "menuPrice":13000,
+        "categoryName":"한식",
+        "review":4.31,
+        "season":"여름",
+        "menuType":"돈까스",
+        "restaurantImages":"/restaurantImages/7.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "옛날 추억이 떠오르는 푸근한 느낌의 옛날돈가스",
+            "image": "/images/7.PNG"
+        }
+     },
+     {
+        "id":8,
+        "restaurantName": "포담",
+        "menuName":"동파육덮밥",
+        "menuPrice":11000,
+        "categoryName":"중식",
+        "review":4.41,
+        "season":"여름",
+        "menuType":"밥",
+        "restaurantImages":"/restaurantImages/8.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "12가지 향신료에 6시간동안 조리한 보들보들한 돼지 고기와 볶은 야채를 듬뿍 겉들인 덮밥",
+            "image": "/images/8.PNG"
+        }
+     },
+     {
+        "id":9,
+        "restaurantName": "생어거스틴",
+        "menuName":"왕새우 팟타이",
+        "menuPrice":19000,
+        "categoryName":"태국음식",
+        "review":4.48,
+        "season":"가을",
+        "menuType":"새우",
+        "restaurantImages":"/restaurantImages/9.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "태국의 대표적인 볶음 누들",
+            "image": "/images/9.PNG"
+        }
+     },
+     {
+        "id":10,
+        "restaurantName": "힐사이드테이블",
+        "menuName":"밀차 두유 치즈 샌드위치",
+        "menuPrice":12500,
+        "categoryName":"샌드위치",
+        "review":4.37,
+        "season":"여름",
+        "menuType":"샌드위치",
+        "restaurantImages":"/restaurantImages/10.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "쌉싸름하고 꾸덕한 말차 두부치즈와 제철 변동 재료(단호박/딸기/무화과 중 시즈널 재료로 사용)가 들어간 힐사이드테이블 시그니처 샌드위치",
+            "image": "/images/10.PNG"
+        }
+     },
+     {
+        "id":11,
+        "restaurantName": "정돈",
+        "menuName":"등심돈가츠",
+        "menuPrice":14000,
+        "categoryName":"일식",
+        "review":4.48,
+        "season":"여름",
+        "menuType":"돈까스",
+        "restaurantImages":"/restaurantImages/11.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "깔끔한 분위기의 고급지고 모던한 감성의 일식 돈가츠 집입니다.",
+            "image": "/images/11.PNG"
+        }
+     },
+     {
+        "id":12,
+        "restaurantName": "솔나무길된장예술",
+        "menuName":"된장정식",
+        "menuPrice":12000,
+        "categoryName":"한식",
+        "review":4.2,
+        "season":"가을",
+        "menuType":"찌개",
+        "restaurantImages":"/restaurantImages/12.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "젊음의 메카 대학로 에서 20년 동안 세미 한정식으로 꾸준히 사랑 받아온 된장정식입니다.",
+            "image": "/images/12.PNG"
+        }
+     },
+     {
+        "id":13,
+        "restaurantName": "혜화동버거",
+        "menuName":"도넛버거",
+        "menuPrice":12800,
+        "categoryName":"양식",
+        "review":4.62,
+        "season":"봄",
+        "menuType":"햄버거",
+        "restaurantImages":"/restaurantImages/13.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "혜화동에서만 즐길 수 있는 시그니처 버거입니다.",
+            "image": "/images/13.PNG"
+        }
+     },
+     {
+        "id":14,
+        "restaurantName": "1940금문",
+        "menuName":"삼선간짜장",
+        "menuPrice":9000,
+        "categoryName":"중식",
+        "review":4.6,
+        "season":"여름",
+        "menuType":"짜장면",
+        "restaurantImages":"/restaurantImages/14.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "1940년 부터 지금까지 일정한 맛을 이어온 전통 중화 짜장면 입니다.",
+            "image": "/images/14.PNG"
+        }
+     },
+     {
+        "id":15,
+        "restaurantName": "혜화칼국수",
+        "menuName":"국시",
+        "menuPrice":11000,
+        "categoryName":"한식",
+        "review":4.25,
+        "season":"겨울",
+        "menuType":"국수",
+        "restaurantImages":"/restaurantImages/15.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "0년간 선보이고 있는 대학로 대표 칼국수집입니다.",
+            "image": "/images/15.PNG"
+        }
+     },
+     {
+        "id":16,
+        "restaurantName": "엄용백돼지국밥",
+        "menuName":"돼지국밥",
+        "menuPrice":11000,
+        "categoryName":"한식",
+        "review":4.29,
+        "season":"겨울",
+        "menuType":"국밥",
+        "restaurantImages":"/restaurantImages/16.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "정성스럽게 고은 돼지뼈 육수와 야들야들한 고기가 일품인 부산식 돼지국밥",
+            "image": "/images/16.PNG"
+        }
+     },
+     {
+        "id":17,
+        "restaurantName": "삼숙이라면",
+        "menuName":"삼숙이라면",
+        "menuPrice":7000,
+        "categoryName":"한식",
+        "review":4.06,
+        "season":"가을",
+        "menuType":"라면",
+        "restaurantImages":"/restaurantImages/17.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "주인장이 직접 만든 육수에 끓여내는 얼큰한 라면",
+            "image": "/images/17.PNG"
+        }
+     },
+     {
+        "id":18,
+        "restaurantName": "후니도니",
+        "menuName":"치즈돈까스",
+        "menuPrice":9500,
+        "categoryName":"일식",
+        "review":4.53,
+        "season":"봄",
+        "menuType":"돈까스",
+        "restaurantImages":"/restaurantImages/18.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "주욱~ 늘어나는 치즈돈까스가 유명한 집",
+            "image": "/images/18.PNG"
+        }
+     },
+     {
+        "id":19,
+        "restaurantName": "샤오바오우육면",
+        "menuName":"우육면",
+        "menuPrice":10000,
+        "categoryName":"중식",
+        "review":4.54,
+        "season":"가을",
+        "menuType":"면",
+        "restaurantImages":"/restaurantImages/19.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "중국 란주 50년 경력의 비법육수를 직접 전수받은 우육면집입니다.",
+            "image": "/images/19.PNG"
+        }
+     },
+     {
+        "id":20,
+        "restaurantName": "어게인리프레쉬",
+        "menuName":"연어아보카도샐러드",
+        "menuPrice":12900,
+        "categoryName":"양식",
+        "review":4.58,
+        "season":"여름",
+        "menuType":"샐러드",
+        "restaurantImages":"/restaurantImages/20.PNG",
+        "isOrderable":true,
+        "detail": {
+            "description": "건강한 점심을 찾는 직장인을 위한 안성맞춤 샐러드입니다.",
+            "image": "/images/20.PNG"
+        }
+     }
+ ]

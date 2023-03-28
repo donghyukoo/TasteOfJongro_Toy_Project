@@ -1,0 +1,9 @@
+diff a/food/src/App.js b/food/src/App.js	(rejected hunks)
+@@ -4,7 +4,6 @@
+ 
+ function App() {
+   return (
+-      <h1>안녕</h1>
+       <BrowserRouter>
+         <Routes>
+           <Route path="/" element={<Weather/>}/>

@@ -1,0 +1,7 @@
+.RestaurantBox div{
+    display: inline-block;
+    margin: 15px;
+    border-style: hidden;
+    box-shadow:5px 5px 3px 2px gray;
+
+}
